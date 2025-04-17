@@ -1,0 +1,2 @@
+
+Hello this file is being read by the FileReader !
