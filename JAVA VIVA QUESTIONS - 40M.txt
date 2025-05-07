@@ -1,0 +1,55 @@
+JAVA VIVA QUESTIONS - 40M:
+
+1. why java was needed?
+2. C++ vs Java which is faster?
+3. why java is platform independent?
+4. difference between JVM, JDK, JRE?
+5. why java is portable, platform independent, architecture neutral?
+6. OOP's properties in java?
+7. what is threads & multi-threads in java?
+8. java Vs C++ security(Explain pointers here)?
+9. simple structure of java program?
+10. why do we need to import libraries or packages?
+11. difference between collection and package?
+12. Interfaces and their types?
+13. can we have multiple main methods in java?
+14. Is java case-sensitive?(highly sensitive)
+15. Types of methods (static and non-static)?
+16. variables in Java(types of variables)?
+17. Scanner class methods?
+18. Data types of java?
+19. *** what are excess modifiers in the java(public, private or protected)?
+20. what are Reserved Keywords in java(50)?
+21. what is typecasting?
+22. Different types of operators in java?
+23. with respective to the controls structure, diff between for and foreach & forwhile, while and dowhile?
+24. what are arrays, enums, varargs?
+25. do we have Dynamic Arrays?
+26. overloading vs overriding?
+27. is @override mandatory?
+28. what are constructors and types?
+29. This super Final static keywords?
+30. string class vs string buffer vs string builder?
+31. strings are mutable or imutable syncronized ro unsyncronized?
+32. Types of Inheritances in java?
+33. Abstract class & abstract method?
+34. Types of classes?
+35. what are exceptio, exception handling and how does the exception handling works?
+36. what is JDBC?
+37. why do we need JDBC?
+38. what are CRUD operation in JDBC?
+39. what is intialized Block?
+40. difference between abstraction & encapsulation?
+41. polymorphism and its types?
+42. what is the pupose of the toString() & equals()?
+43. Legacy vs modern date/time classes?
+44. Functional interfaces and Lmabda expressions?
+45. Exception vs Assertions?
+46. ByteStream vs characterstream?
+47. genrerics and wildcards?
+48. what are Treeset, ArrayList , HashMap and deques and their purposes?
+49. diff between HashMap and HashSet?
+50. final, finally adn finalize?
+51. who is founder of java?
+52. current version of java available?
+53. 
